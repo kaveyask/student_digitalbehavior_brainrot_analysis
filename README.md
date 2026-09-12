@@ -43,3 +43,5 @@ A SQL-driven **data analytics project** analyzing global student digital behavio
 ### 👤 Author
 
 **Kaveya S**
+
+🔗 [**GitHub Repository**](https://github.com/kaveyask/student_digitalbehavior_brainrot_analysis)
